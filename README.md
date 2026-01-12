@@ -1,8 +1,9 @@
 
 # **PROJECT REPORT: InnovEx Mart – Advanced E-Commerce Platform**  
-**Submitted by:** Lorens Mishra (Enrollment No. I2010307)  
+**Submitted by:** Lorens Mishra 
+**Enrollment No. I2010307**  
 **Project Guide:** Dr. Sarika Yadav  
-**Institution:** Center of Computer Education & Training, Institute of Professional Studies, University of Allahabad, Prayagraj  
+**Institution:** Center of Computer Education & Training, Institute of Professional Studies, **University of Allahabad**, Prayagraj  
 **Batch Year:** 2023–2025  
 **Phase:** II  
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/fea8703d-5320-4d66-bfe1-992355fe4e48" />
